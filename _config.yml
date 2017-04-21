@@ -16,9 +16,9 @@ url: "http://RoboRecon.org" # the base hostname & protocol for your site
 #######################
 # Customise to how you want
 header:
-    title: Team Paradox 2102 # the bold, bigger main text
+    title: Bear Metal 2046 # the bold, bigger main text
     accent: 2017 Scouting System # the smaller, but informative accenting text
-    logo: "/images/paradox_logo_2016.png" # FULL path to image in the header 150x150 works well
+    logo: "/images/BearMetalLogo.png" # FULL path to image in the header 150x150 works well
 
 ### Footer Settings ###
 #######################
@@ -34,8 +34,8 @@ footer:
 # These are the most imporant settings, choose carefully
 
 scout:
-    teamkey: 2102
-    currentevent: 2017cada # the Event key for the event you want to scout, can be found on TBA
+    teamkey: 2046
+    currentevent: 2017tur # the Event key for the event you want to scout, can be found on TBA
     firebase:
         rooturl: https://paradox-scout-dc256.firebaseio.com/ # Address of Firebase Server
         apikey: AIzaSyDleJPx9RQChKn4DlLV9nXqMNafP7BvhG0 # API Key of Firebase
